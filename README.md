@@ -1,4 +1,4 @@
-a# **Telegram Data Pipeline**
+# **Telegram Data Pipeline**
 
 Data Analyst: [Lucas Botelho](https://www.linkedin.com/in/lucasbotelho97/)
 
