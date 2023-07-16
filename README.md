@@ -2,7 +2,7 @@
 
 Data Analyst: [Lucas Botelho](https://www.linkedin.com/in/lucasbotelho97/)
 
----# final_project
+---# Final Project
 
 # **Topics**
 
